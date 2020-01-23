@@ -17,8 +17,8 @@
 ![Saionji Kyouichi](/Saionji%20Kyouichi.png)
 ![Kaoru Miki](/Kaoru%20Miki.png)
 ![Arisugawa Juri](/Arisugawa%20Juri.png)
-![Kiryuu Nanami](/Kiryuu%20Nanami.png)
 ![Kiryuu Touga](/Kiryuu%20Touga.png)
+![Kiryuu Nanami](/Kiryuu%20Nanami.png)
 
 Fencing is a weaker variant of [Bushido](https://mtg.gamepedia.com/Bushido). Hopefully the “duels” reminder text
 is clear enough, but here’s the full legalese text just in case:
@@ -54,6 +54,7 @@ is clear enough, but here’s the full legalese text just in case:
 ## Other creatures
 
 ![Chu-Chu](/Chu-Chu.png)
+![Shadow Girls](/Shadow%20Girls.png)
 ![Ohtori Akio](/Ohtori%20Akio.png)
 ![Akio’s Car](/Akios%20Car.png)
 ![Swords of Annihilation](/Swords%20of%20Annihilation.png)
@@ -71,14 +72,13 @@ is clear enough, but here’s the full legalese text just in case:
 ![Planetarium](/Planetarium.png)
 ![Empty Movement](/Empty%20Movement.png)
 ![Absolute Destiny Apocalypse](/Absolute%20Destiny%20Apocalypse.png)
+![Body Swap](/Body%20Swap.png)
 ![Academy Records](/Academy%20Records.png)
 ![Assert Dominance](/Assert%20Dominance.png)
 ![Bells of Victory](/Bells%20of%20Victory.png)
-![Body Swap](/Body%20Swap.png)
 ![Cowbell of Happiness](/Cowbell%20of%20Happiness.png)
 ![Letter of Challenge](/Letter%20of%20Challenge.png)
 ![Observatory](/Observatory.png)
-![Shadow Girls](/Shadow%20Girls.png)
 ![Slash to Pieces](/Slash%20to%20Pieces.png)
 ![Sparring Practice](/Sparring%20Practice.png)
 
