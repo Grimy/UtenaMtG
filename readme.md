@@ -1,7 +1,7 @@
 ## Commanders
 
-![Tenjou Utena](/Tenjou Utena.png)
+![Tenjou Utena](/Tenjou%20Utena.png)
 
-![Himemiya Anthy](/Himemiya Anthy.png)
+![Himemiya Anthy](/Himemiya%20Anthy.png)
 
 ![Cantarella](/Cantarella.png)
